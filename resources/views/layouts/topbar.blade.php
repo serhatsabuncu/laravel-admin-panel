@@ -9,7 +9,7 @@
                 <img src="assets/images/users/avatar-1.jpg" alt="user" class="rounded-circle">
                 </a>
                 <div class="dropdown-menu dropdown-menu-right profile-dropdown " aria-labelledby="Preview">        
-                    <a href="javascript:void(0);" class="dropdown-item notify-item">
+                    <a href="/profile" class="dropdown-item notify-item">
                     <i class="zmdi zmdi-account-circle"></i> <span>Profile</span>
                     </a>
                     <a href="javascript:void(0);" class="dropdown-item notify-item">
